@@ -59,5 +59,3 @@ Update this section once you have final metrics (e.g., accuracy/F1/ROC-AUC/RMSE)
 License
 Add your license here (e.g., MIT, Apache-2.0).
 
-Author
-ARJUN K
